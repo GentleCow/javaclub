@@ -1,0 +1,28 @@
+body {
+    margin-top: 25%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color:aquamarine;
+}
+
+button {
+    margin-top: 20px;
+    background-color: black;
+    border: 0;
+    width: 100px;
+    height: 25px;
+    font-size: medium;
+    color: white;
+}
+
+button:hover {
+    background-color: red;
+}
+
+input {
+    
+    color: red;
+    
+}
